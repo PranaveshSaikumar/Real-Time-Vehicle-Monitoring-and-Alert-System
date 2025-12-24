@@ -269,13 +269,13 @@ Alert mode: Shows multi-line messages with buzzer sounds.
 ## OLED Display:
 
 ### Normal:
-![WhatsApp Image 2025-12-24 at 7 12 37 AM (1)](https://github.com/user-attachments/assets/3df125e9-f70a-4fbb-b2e2-89e767afb690)
+![WhatsApp Image 2025-12-24 at 7 12 37 AM](https://github.com/user-attachments/assets/8170bd7c-d91d-4412-8785-e712d9935889)
 
 ### Alert (Engine Heat):
-![WhatsApp Image 2025-12-24 at 7 12 37 AM](https://github.com/user-attachments/assets/2e7e3b50-b503-4256-97f9-3aea834d5625)
+![WhatsApp Image 2025-12-24 at 7 12 37 AM (2)](https://github.com/user-attachments/assets/2dfaa267-2e4f-433c-8dda-7e62a9922dd0)
 
 ### Alert (Overspeed):
-![WhatsApp Image 2025-12-24 at 7 12 37 AM (2)](https://github.com/user-attachments/assets/2dfaa267-2e4f-433c-8dda-7e62a9922dd0)
+![WhatsApp Image 2025-12-24 at 7 12 37 AM (1)](https://github.com/user-attachments/assets/3df125e9-f70a-4fbb-b2e2-89e767afb690)
 
 ## Future Improvements
 
